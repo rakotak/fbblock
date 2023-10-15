@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Facebook Ads & Reels",
+  "version": "1.0",
+  "description": "Hides Facebook ads and reels",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
