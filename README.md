@@ -9,5 +9,5 @@ Installation:
 4. Click on 'Load unpacked'.
 5. Select FbBlock directory.
 
-This extension is fairly simplified and inefficient, does not prevent the resources from loading - it just hides them. I am using it because I do not want to install and adblocker extension.
+This extension is fairly simplified and inefficient, it does not prevent the resources from loading - it just hides them. I am using it because I do not want to install any adblocker extension.
 Use at your own risk.
