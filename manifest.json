@@ -3,6 +3,9 @@
   "name": "Hide Facebook Ads & Reels",
   "version": "1.0",
   "description": "Hides Facebook ads and reels",
+  "icons": {
+    "48": "icons/icon48.png"
+  },
   "permissions": ["activeTab"],
   "content_scripts": [
     {
@@ -11,4 +14,3 @@
     }
   ]
 }
-
