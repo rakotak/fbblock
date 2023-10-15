@@ -1,5 +1,5 @@
 # fbblock
-Hide facebook reels and ads automatically. Only for Chrome. Add 
+Hide facebook reels and ads automatically. Tested on Chrome only.
 
 Installation:
 
