@@ -31,7 +31,7 @@ const hideAdsBasedOnSVG = () => {
     const adElements = document.querySelectorAll('svg[title="Shared with Public"]');
 
     adElements.forEach(adElement => {
-        let targetDiv = adElement.closest('div'); // Direct parent div
+        let targetDiv = adElement.closest('div');
 
         for (let i = 0; i < 6; i++) {
             if (!targetDiv) break;
